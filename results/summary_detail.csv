@@ -1,0 +1,13 @@
+method,budget,seed,best_test_acc,best_epoch,final_test_acc,path
+random,10,0,0.18564453125,48,0.18486328125,results\random_B10_seed0.json
+random,10,1,0.12744140625,83,0.12177734375,results\random_B10_seed1.json
+random,10,2,0.15947265625,37,0.1548828125,results\random_B10_seed2.json
+tpcrp,10,0,0.18955078125,36,0.178125,results\tpcrp_B10_seed0.json
+tpcrp,10,1,0.15693359375,82,0.15615234375,results\tpcrp_B10_seed1.json
+tpcrp,10,2,0.1896484375,81,0.18779296875,results\tpcrp_B10_seed2.json
+random,50,0,0.22919921875,71,0.2287109375,results\random_B50_seed0.json
+random,50,1,0.22314453125,29,0.2125,results\random_B50_seed1.json
+random,50,2,0.22138671875,55,0.2205078125,results\random_B50_seed2.json
+tpcrp,50,0,0.257421875,55,0.2501953125,results\tpcrp_B50_seed0.json
+tpcrp,50,1,0.23720703125,100,0.23720703125,results\tpcrp_B50_seed1.json
+tpcrp,50,2,0.251171875,74,0.2501953125,results\tpcrp_B50_seed2.json
