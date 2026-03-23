@@ -1,0 +1,5 @@
+@"
+cache/
+data/cifar-10-python.tar.gz
+*.npz
+"@ | Out-File -Encoding utf8 .gitignore -Append
